@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Golang and exploring its advanced features.
 - 💞️ I’m looking to collaborate on projects involving Node.js, NestJS, JavaScript, TypeScript, and Golang.
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/sanjib-nirola-175283200) | [Email](mailto:sanjibnirola@outlook.com)
-- 😄 Pronouns: ...
+- 😄 Caution: Raise an issue if you find faulty code
 - ⚡ Fun fact: I enjoy solving complex coding challenges and learning new technologies.
