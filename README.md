@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sanzib-hub
+- 👀 I’m interested in backend development and improving my skills in various programming languages.
+- 🌱 I’m currently learning Golang and exploring its advanced features.
+- 💞️ I’m looking to collaborate on projects involving Node.js, NestJS, JavaScript, TypeScript, and Golang.
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/sanjib-nirola-175283200) | [Email](mailto:sanjibnirola@outlook.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I enjoy solving complex coding challenges and learning new technologies.
