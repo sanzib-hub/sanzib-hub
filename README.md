@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sanzib-hub.github.io"><img src="https://img.shields.io/badge/Portfolio-sanzib--hub.github.io-0A66C2?style=flat-square&logo=windows-xp&logoColor=white" alt="Portfolio"></a>
-  <a href="https://in.linkedin.com/in/sanjib-nirola-175283200"><img src="https://img.shields.io/badge/LinkedIn-Sanjib%20Nirola-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sanjib-nirola"><img src="https://img.shields.io/badge/LinkedIn-Sanjib%20Nirola-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sanjibnirola@outlook.com"><img src="https://img.shields.io/badge/Email-sanjibnirola%40outlook.com-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
