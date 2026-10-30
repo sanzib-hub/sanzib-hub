@@ -53,13 +53,4 @@ I build backend systems that hold up in production: APIs, background workers, sc
 
 ---
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanzib-hub&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzib-hub&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
----
-
 <p align="center"><i>Shipping working code is my favourite part. ⚡</i></p>
