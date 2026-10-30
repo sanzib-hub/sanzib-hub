@@ -1,32 +1,65 @@
-# 👋 Hi, I’m @sanzib-hub
+<h1 align="center">Hi, I'm Sanjib 👋</h1>
 
-* 👀 I’m focused on backend development and continuously improving my skills across languages and cloud platforms.
-* 🌱 **Current progression:** Deepening my Golang knowledge (advanced features, concurrency, generics) while building practical Go projects — a TypeScript→Go interpreter, a compiler prototype, and an internet-less libp2p messaging service. I'm also practicing Kubernetes, Docker, ArgoCD, GitHub Actions, and Go CLI tooling.
-* 💞️ **Open to collaborate on:** Node.js, NestJS, JavaScript, TypeScript, and Golang projects — especially backend systems, microservices, and infra automation.
-* 🔧 **Hands-on work:** Improving NestJS & TypeScript codebases, building `taskprocessor` microservices (API, worker, scheduler), and developing a MongoDB Atlas GUI with Golang + Gio UI.
-* 📚 **Learning plans & goals:** Following a hands-on Go Mastery Plan (project-based, code-first), practicing Low-Level Design patterns, and building production-ready tooling (compilers, interpreters, CLI apps).
-* 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/sanjib-nirola-175283200) | [Email](mailto:sanjibnirola@outlook.com)
-* 😄 Caution: Raise an issue if you find faulty code — I appreciate bug reports and honest feedback.
-* ⚡ Fun fact: I enjoy solving complex coding challenges and learning new technologies — shipping working code is my favorite part.
+<p align="center">
+  <b>Backend engineer</b> · Node.js / NestJS by day, Go by choice · building distributed systems, compilers and dev tooling
+</p>
 
----
-
-## Tech & Tools
-
-* **Languages:** Node.js (JavaScript/TypeScript), Golang (in-progress), Python (learning for AI work)
-* **Frameworks:** NestJS, Express
-* **Datastores:** PostgreSQL, MongoDB, MySQL, Redis, Firebase
-* **Cloud & Infra:** Google Cloud Platform (Cloud Run, Cloud SQL, VPC, Load Balancing), Docker, Kubernetes, ArgoCD
-* **CI/CD & DevOps:** GitHub Actions, self-hosted runners, Docker, Git workflows
-* **Other:** Mongoose, Jest, Pusher, libp2p (research)
+<p align="center">
+  <a href="https://sanzib-hub.github.io"><img src="https://img.shields.io/badge/Portfolio-sanzib--hub.github.io-0A66C2?style=flat-square&logo=windows-xp&logoColor=white" alt="Portfolio"></a>
+  <a href="https://in.linkedin.com/in/sanjib-nirola-175283200"><img src="https://img.shields.io/badge/LinkedIn-Sanjib%20Nirola-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sanjibnirola@outlook.com"><img src="https://img.shields.io/badge/Email-sanjibnirola%40outlook.com-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## Projects (selected)
+### About me
 
-* **taskprocessor** — microservice-based time & task tracking platform (API, worker, scheduler) using PostgreSQL and background workers.
-* **TypeScript→Go interpreter** — experimental project to parse and execute a subset of TypeScript in Go (lexer → parser → interpreter).
-* **Compiler prototype (Go)** — building a simple compiler beginning with lexer & parser components.
-* **MongoDB Atlas GUI (Golang + Gio UI)** — experiment to build an offline-friendly management UI for Atlas-like workflows.
+I build backend systems that hold up in production: APIs, background workers, schedulers, and the CI/CD and cloud infrastructure underneath them. My day-to-day stack is **TypeScript + NestJS on Google Cloud**. On the side I'm going deep on **Go**: concurrency, generics, and the kind of projects that make you understand how things actually work, like compilers, load balancers and peer-to-peer networking.
+
+- 🔭 **Currently building:** a TypeScript → Go compiler, an offline libp2p chat app, and a MongoDB Atlas GUI with Go + Gio UI
+- 🌱 **Currently learning:** advanced Go, Kubernetes + ArgoCD, low-level design patterns, and Python for AI work
+- 🤝 **Open to collaborate on:** backend systems, microservices and infra automation in Go, Node.js or TypeScript
+- 🐛 **Found a bug in my code?** Please open an issue. I genuinely appreciate it.
 
 ---
+
+### Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**go-DTPS**](https://github.com/sanzib-hub/go-DTPS) | Distributed task processing system with separate API, worker and scheduler services | Go · PostgreSQL |
+| [**go-ts-compiler**](https://github.com/sanzib-hub/go-ts-compiler) | Runs a subset of TypeScript in Go, built from scratch: lexer → parser → interpreter | Go |
+| [**meshnet-chat**](https://github.com/sanzib-hub/meshnet-chat) | Peer-to-peer chat that works without internet, secured over libp2p | Go · libp2p |
+| [**simple-load-balancer**](https://github.com/sanzib-hub/simple-load-balancer) | HTTP load balancer with backend health checks | Go |
+| [**go-cache**](https://github.com/sanzib-hub/go-cache) | Redis-style in-memory key-value server over TCP, with its own wire protocol and client | Go |
+| [**sanzib-hub.github.io**](https://github.com/sanzib-hub/sanzib-hub.github.io) | My portfolio, built as a Windows XP desktop | JavaScript |
+
+<sub>More experiments: <a href="https://github.com/sanzib-hub/cli-time-tracker">cli-time-tracker</a> · <a href="https://github.com/sanzib-hub/go-dsa">go-dsa</a> · <a href="https://github.com/sanzib-hub/golang-http-server">golang-http-server</a> · <a href="https://github.com/sanzib-hub/CRUD-with-golang">CRUD-with-golang</a></sub>
+
+---
+
+### Tech stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,python" alt="Go, TypeScript, JavaScript, Node.js, Python">
+
+**Frameworks & data**<br>
+<img src="https://skillicons.dev/icons?i=nestjs,express,postgres,mongodb,mysql,redis,firebase" alt="NestJS, Express, PostgreSQL, MongoDB, MySQL, Redis, Firebase">
+
+**Cloud, infra & tooling**<br>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,git,jest" alt="GCP, Docker, Kubernetes, GitHub Actions, Git, Jest">
+
+<sub>Also: Cloud Run, Cloud SQL, VPC & load balancing on GCP · ArgoCD · self-hosted runners · Mongoose · Pusher</sub>
+
+---
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanzib-hub&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzib-hub&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+</p>
+
+---
+
+<p align="center"><i>Shipping working code is my favourite part. ⚡</i></p>
